@@ -1,5 +1,0 @@
-{% extends "personal/home.html" %}
-{% block content %}
-<p>hh</p>
-{% include "personal/includes/htmlsnippet.html"%}
-{% endblock %}
